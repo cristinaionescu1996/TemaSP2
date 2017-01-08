@@ -5,7 +5,7 @@ D=13;
 N=50;
 P=40;
 F=1/P;
-t=0:0.02:P-0.02; %teorema esantionarii
+t=0:0.02:P-0.02; 
 w0=2*pi*F;
 
 %generez un vector cu zerouri:
